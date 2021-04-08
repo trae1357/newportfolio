@@ -177,7 +177,7 @@
 	.navbar-toggle .icon-bar {
 		height: 1px;
 		width: 30px;
-	    background-color: #212121;
+	    background-color: blue;
 	    -webkit-transition: all 0.3s;
 	    -moz-transition: all 0.3s;
 	    -ms-transition: all 0.3s;
